@@ -5,9 +5,9 @@ const path = require('path');
 // ==========================================
 // ⚙️ INSERISCI QUI I DATI DEL TUO SERVER
 // ==========================================
-const SERVER_IP = "INSERISCI_IL_TUO_IP_QUI"; // es: mio-server.aternos.me
-const SERVER_PORT = 25565;                   // es: 27586 (senza virgolette)
-const BOT_USERNAME = "BotAFK_247";           // Nome del bot in gioco
+const SERVER_IP = "SosticeMC.aternos.me"; // es: mio-server.aternos.me
+const SERVER_PORT = 41807;                   // es: 27586 (senza virgolette)
+const BOT_USERNAME = "Giginoilgoat";           // Nome del bot in gioco
 // ==========================================
 
 const app = express();
